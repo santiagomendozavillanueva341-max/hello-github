@@ -4,4 +4,4 @@
 
 **Ingeniera de sistemas**
 
-´ucompensar´
+ucompensar
