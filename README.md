@@ -1,7 +1,7 @@
 # hello-github
 
-santiago mendoza
+**santiago mendoza**
 
-Ingeniera de sistemas
+**Ingeniera de sistemas**
 
-ucompensar
+´ucompensar´
